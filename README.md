@@ -19,7 +19,7 @@ Stamp 9 THB:	1	=	9	THB
 Stamp 5 THB:	5	=	25	THB
 Stamp 3 THB:	12	=	36	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #2
 ---------------------------------------------
@@ -27,7 +27,7 @@ Stamp 9 THB:	4	=	36	THB
 Stamp 5 THB:	2	=	10	THB
 Stamp 3 THB:	8	=	24	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #3
 ---------------------------------------------
@@ -35,14 +35,14 @@ Stamp 9 THB:	1	=	9	THB
 Stamp 5 THB:	11	=	55	THB
 Stamp 3 THB:	2	=	6	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #4
 ---------------------------------------------
 Stamp 5 THB:	2	=	10	THB
 Stamp 3 THB:	20	=	60	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #5
 ---------------------------------------------
@@ -50,7 +50,7 @@ Stamp 9 THB:	3	=	27	THB
 Stamp 5 THB:	2	=	10	THB
 Stamp 3 THB:	11	=	33	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #6
 ---------------------------------------------
@@ -58,7 +58,7 @@ Stamp 9 THB:	5	=	45	THB
 Stamp 5 THB:	2	=	10	THB
 Stamp 3 THB:	5	=	15	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #7
 ---------------------------------------------
@@ -66,7 +66,7 @@ Stamp 9 THB:	2	=	18	THB
 Stamp 5 THB:	8	=	40	THB
 Stamp 3 THB:	4	=	12	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #8
 ---------------------------------------------
@@ -74,21 +74,21 @@ Stamp 9 THB:	6	=	54	THB
 Stamp 5 THB:	2	=	10	THB
 Stamp 3 THB:	2	=	6	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #9
 ---------------------------------------------
 Stamp 9 THB:	5	=	45	THB
 Stamp 5 THB:	5	=	25	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #10
 ---------------------------------------------
 Stamp 5 THB:	5	=	25	THB
 Stamp 3 THB:	15	=	45	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #11
 ---------------------------------------------
@@ -96,7 +96,7 @@ Stamp 9 THB:	3	=	27	THB
 Stamp 5 THB:	5	=	25	THB
 Stamp 3 THB:	6	=	18	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #12
 ---------------------------------------------
@@ -104,7 +104,7 @@ Stamp 9 THB:	1	=	9	THB
 Stamp 5 THB:	2	=	10	THB
 Stamp 3 THB:	17	=	51	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #13
 ---------------------------------------------
@@ -112,7 +112,7 @@ Stamp 9 THB:	2	=	18	THB
 Stamp 5 THB:	2	=	10	THB
 Stamp 3 THB:	14	=	42	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #14
 ---------------------------------------------
@@ -120,7 +120,7 @@ Stamp 9 THB:	4	=	36	THB
 Stamp 5 THB:	5	=	25	THB
 Stamp 3 THB:	3	=	9	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Combination #15
 ---------------------------------------------
@@ -128,7 +128,7 @@ Stamp 9 THB:	3	=	27	THB
 Stamp 5 THB:	8	=	40	THB
 Stamp 3 THB:	1	=	3	THB
 ---------------------------------------------
-Total:					70	THB
+Total:				70	THB
 
 Total combinations: 15
 
